@@ -1,4 +1,5 @@
-noi dung file4 o team 2, team1 chinh sua day
+tao thich thi tao sua, noi dung file4 o team 2, team1 chinh sua day
 file 4 o nhanh team1
 sua file4 lan thu 2 o team 1
 sua lan thu 2, file so 4 branch team2
+team2 them du lieu lan thu 3
